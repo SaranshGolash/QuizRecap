@@ -60,7 +60,7 @@
         android:layout_marginTop="75dp"
         android:background="#F4EAEA"
         android:text="1> There are 5 quiz questions with 4 options available."
-        android:textSize="16sp"
+        android:textSize="14sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
